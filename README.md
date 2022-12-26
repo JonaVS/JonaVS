@@ -12,7 +12,7 @@
 
    :dart: I currently focus on web apps development where I have knowledge on both frontend and backend.
    
-   :zap: My hobbies: Read/watch any kind of tech related things, code, cook things, go outside, and gaming.
+   :zap: My hobbies: Read/watch any kind of tech related things, code, cook things, go outside and gaming.
    
    :envelope: How to reach me: [LinkedIn](https://www.linkedin.com/in/jonathan-vargas-5798181a7/) or via [Mail](mailto:info@jonathanvs.com)
    
